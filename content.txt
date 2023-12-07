@@ -2,3 +2,4 @@ Farbpalette
 
 Rot
 blau
+gelb
