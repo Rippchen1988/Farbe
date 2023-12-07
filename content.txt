@@ -1,10 +1,1 @@
-## Farbpalette
-
-
-- Rot
-- Grün
-- Blau
-- Gelb
-- Magenta
-
-Sind alle tolle Farben.
+Farbpalette
