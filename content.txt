@@ -1,6 +1,7 @@
 Farbpalette
 
 Rot
+Hellgrün
+Dunkelgrün
 blau
 gelb
-grün
